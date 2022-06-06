@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @elielsf
+- 👀 Estou interessado em aprender e trabalhar como desenvolvedor full-stack.
+- 🌱 Atualmente estou aprendendo sobre JavaScript.
+- 📫 Pode entrar em contato comigo via email, elielasf@hotmail.com :)
